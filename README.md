@@ -36,7 +36,7 @@ You can find a demo on <http://pjax.heroku.com/>
 
 One. Functionally obtrusive, loading the href with ajax into data-pjax:
 
-```js
+```html
 <a href='/explore' data-pjax='#main'>Explore</a>
 ```
 
